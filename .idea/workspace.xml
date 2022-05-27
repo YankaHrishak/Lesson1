@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c726a37e-61c3-4443-a3f5-48d399720cb6" name="Changes" comment="Homework5, class car, class avto, class vehicle, class Mustang car">
-      <change afterPath="$PROJECT_DIR$/Homework7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lesson1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lesson1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c726a37e-61c3-4443-a3f5-48d399720cb6" name="Changes" comment="Homework8, Арифметична прогресія">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +38,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Hrishak Yana/IT STEP SHAG/pythonSenior/Lesson1&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -161,7 +158,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653307070759</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework7, Винятки. Генерація та оброблення&#10;винятків. Попередження">
+      <created>1653673028240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653673028240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework8, Арифметична прогресія">
+      <created>1653674585248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653674585248</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework8, Арифметична прогресія">
+      <created>1653674715042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653674715042</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +197,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Розширила клас студента додавши атрибути не тільки грошей" />
     <MESSAGE value="Homework5, class car, class avto, class vehicle, class Mustang car" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework5, class car, class avto, class vehicle, class Mustang car" />
+    <MESSAGE value="Homework7, Винятки. Генерація та оброблення&#10;винятків. Попередження" />
+    <MESSAGE value="Homework8, Арифметична прогресія" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework8, Арифметична прогресія" />
   </component>
 </project>
