@@ -4,4 +4,4 @@ r = range(0,10)
 it = iter(r)
 
 l = [a1+5*(next(it)) for i in r]
-print()
+print(l)
