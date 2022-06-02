@@ -1,0 +1,15 @@
+import random
+import logging
+
+r = range(0,10)
+it = iter(r)
+a = [3+8*(next(it)) for i in r]
+it = iter(a)
+
+logging.basicConfig(level=logging.ERROR, filename="logs.log",filemode="w",format="We have next logging messange:%(asctime)s%(levelname)s - %(message)s")
+
+for i in a:
+    try:
+        print(a[next(it)]/random.randidnt(-5,5))
+    except:
+        logging.error("Помилка нульового ділення")
