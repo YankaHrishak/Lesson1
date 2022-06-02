@@ -1,0 +1,20 @@
+class animal:
+    def __init__(self, *args,**kwargs):
+        super().__init__(*args, **kwargs)
+        self.vid = "Котячі"
+        self.sila = "90/100"
+class rang:
+    def __init__(self,*args,**kwargs):
+        super().__init__(*args,**kwargs)
+        self.rang = "Король"
+class typ:
+    pass
+class Lev_animal(animal, rang, typ):
+    def animal_info(self):
+        print("Інформація про тварину:")
+        print("Вид тварини:",self.vid)
+        print("Сила тварини:",self.sila)
+        print("Ранг тварини:",self.rang)
+
+Lev = Lev_animal()
+Lev.animal_info()
