@@ -1,0 +1,6 @@
+from colorama import Fore, Back, Style
+
+print(Fore.BLUE + 'голубий текст')
+print(Back.YELLOW + 'жовта заливка')
+print(Style.DIM + 'тьмяний стиль')
+print(Style.RESET_ALL)
